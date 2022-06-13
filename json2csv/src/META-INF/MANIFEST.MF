@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/json-20200518.jar lib/commons-lang3-3.5.jar lib/commons-io-2.5.jar
+Main-Class: JsonToCSV
+

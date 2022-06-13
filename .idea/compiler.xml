@@ -8,6 +8,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="webframeworktest" />
+        <module name="seleniumdemo" />
+        <module name="seleniumdemov2" />
+        <module name="json2csv" />
         <module name="springboot" />
         <module name="feishufreeapi" />
       </profile>

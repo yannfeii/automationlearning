@@ -6,6 +6,9 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/webframeworktest/pom.xml" />
+        <option value="$PROJECT_DIR$/seleniumdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/seleniumdemov2/pom.xml" />
+        <option value="$PROJECT_DIR$/json2csv/pom.xml" />
       </list>
     </option>
   </component>
