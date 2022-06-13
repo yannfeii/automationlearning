@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+    <properties resource="generator/config.properties"/>
+    <context id="Mysql" targetRuntime="MyBatis3" defaultModelType="flat">
+        <property name="beginningDelimiter" value="`"/>
+        <property name="endingDelimiter" value="`"/>
+
+        <plugin type="${mapper.plugin}">
+            <property name="mappers" value="${mapper.Mapper}"/>
+        </plugin>
+
+        <jdbcConnection driverClass="${jdbc.driverClass}"
+                        connectionURL="jdbc:mysql://192.168.19.128:3306/test_data?allowMultiQueries=true&amp;useUnicode=true&amp;characterEncoding=UTF-8&amp;serverTimezone=Asia/Shanghai"
+                        userId="${jdbc.user}"
+                        password="${jdbc.password}">
+        </jdbcConnection>
+        <!-- 生成实体类的包名和位置 注意targetProject的值为实体类放在工程中具体位置的相对路径， -->
+        <javaModelGenerator targetPackage="${targetModelPackage}" targetProject="${targetJavaProject}">
+            <property name="rootClass" value="com.learning.springboot.entity.BaseEntity"/>
+        </javaModelGenerator>
+
+        <sqlMapGenerator targetPackage="${targetXMLPackage}" targetProject="${targetResourcesProject}"/>
+
+        <javaClientGenerator targetPackage="${targetMapperPackage}" targetProject="${targetJavaProject}"
+                             type="XMLMAPPER"/>
+
+        <!-- 生成用户的相关类 -->
+        <table schema="test_data" tableName="hogwarts_test_case" domainObjectName="HogwartsTestCase" enableCountByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" enableUpdateByExample="false" >
+            <generatedKey column="id" sqlStatement="Mysql" identity="true"/>
+        </table>
+
+    </context>
+
+</generatorConfiguration>

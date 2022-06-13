@@ -1,0 +1,19 @@
+server:
+  port: 8082
+  servlet:
+    session:
+      timeout: 30m #30分钟，测试的话时间不能太短，否则不准。m(分钟)，s(秒)，h(小时)，不写单位默认毫秒
+spring:
+  application:
+    name: aitest-mini
+testUSer:
+  key1: Hogwarts
+
+jenkins:
+  url: http://192.168.19.128:8080
+  username: admin
+  password: admin
+  casetype: 2
+  casesuffix: yml
+  testcommand: hrun
+  callbackurl: http://192.168.19.128:8091

@@ -1,0 +1,13 @@
+name: search
+beforeAll: []
+afterAll: []
+steps:
+  - chrome:
+  - get: https://ceshiren.com
+  - find: [ id, search-button ]
+  - click:
+  - find: [ id, search-term ]
+  - sendkeys: selenium
+  - find: [ css, .topic-title ]
+  - getText: title
+  - assertThat: [ title, contains: [ selenium ] ]

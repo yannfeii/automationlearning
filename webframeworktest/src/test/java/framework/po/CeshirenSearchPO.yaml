@@ -1,0 +1,10 @@
+name: search
+beforeAll: []
+afterAll: []
+steps:
+  - mainPage.new: CeshirenPOMainPage
+  - mainPage.init:
+  - mainPage.search: [ selenium ]
+  - searchPage.new: CeshirenSearchPOPage
+  - searchPage.getFirstTitle:
+  - assertThat: [ title, contains: [ selenium ]]
