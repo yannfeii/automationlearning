@@ -1,0 +1,29 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"TACS-20220317144427744-161",
+		"event_dt":"2022-03-17T14:44:41.409",
+		"trans_id":"PREGATE_UPD",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"pregate_id":"20210914141100XA9455Y",
+		"pm_n":"XA9455Y",
+		"pregate_status_c":"A",
+		"gate_id":1702700001,
+		"gate_lane_id":1702800007,
+		"driver_pass_n":"763946",
+		"cntr_info":[
+			{
+				"cntr_n":"OOLU 3801066",
+				"purpose_c":"S",
+				"clearance_c":"ACFM"
+			},
+			{
+				"cntr_n":"OOLU 3801067",
+				"purpose_c":"S",
+				"clearance_c":"ACFM"
+			}
+		]
+	}
+}

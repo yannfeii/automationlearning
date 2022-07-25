@@ -1,0 +1,16 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-25T16:18:08.812",
+		"event_id":"TACS-20220325161754137-119",
+		"trans_id":"SST_INFO",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"gate_lane_id":1702800007,
+		"request_type_c":"000",
+		"pm_n":"XA9455Y",
+		"driver_pass_n":"763946",
+		"instruct_msg_x":"Transaction COMPLETED Successfully|Import CRSU 5013202: Proceed to TUAS SQUARE|Import CRSU 5013209: Proceed to TUAS SQUARE|XA9455Y: Please ensure that barrier is up before moving off"
+	}
+}

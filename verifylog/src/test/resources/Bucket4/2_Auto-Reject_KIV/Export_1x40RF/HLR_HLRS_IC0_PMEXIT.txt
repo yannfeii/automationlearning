@@ -1,0 +1,1 @@
+25032022181824~TT~HCS~GTOS~XA9455Y~25032022181824488~|Transaction REJECTED|XA9455Y|Rejected Arrival. Cntr arrived after ATU/ETU|Please ensure that barrier is up before moving off

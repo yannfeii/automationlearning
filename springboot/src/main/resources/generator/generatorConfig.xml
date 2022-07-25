@@ -20,7 +20,7 @@
         </jdbcConnection>
         <!-- 生成实体类的包名和位置 注意targetProject的值为实体类放在工程中具体位置的相对路径， -->
         <javaModelGenerator targetPackage="${targetModelPackage}" targetProject="${targetJavaProject}">
-            <property name="rootClass" value="com.learning.springboot.entity.BaseEntity"/>
+            <property name="rootClass" value="com.learning.springboot.com.psa.entity.BaseEntity"/>
         </javaModelGenerator>
 
         <sqlMapGenerator targetPackage="${targetXMLPackage}" targetProject="${targetResourcesProject}"/>

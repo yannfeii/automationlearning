@@ -1,0 +1,31 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220304114824371-444",
+		"event_dt":"2022-03-04T11:48:25.108",
+		"trans_id":"CNTR_EXIT",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XB1172K",
+		"cntr_info":[
+			{
+				"cntr_n":"OOLU 3801068",
+				"op_type_c":"S"
+			},
+			{
+				"cntr_n":"NCSA 5013203",
+				"op_type_c":"D"
+			},
+			{
+				"cntr_n":"OOLU 3801069",
+				"op_type_c":"S"
+			},
+			{
+				"cntr_n":"NCSA 5013204",
+				"op_type_c":"D"
+			}
+		],
+		"exit_dt":"2022-03-04T11:48:25.108"
+	}
+}

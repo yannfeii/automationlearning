@@ -1,0 +1,17 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-04T11:32:50.502",
+		"event_id":"URCIS-20220304113249073-983",
+		"trans_id":"SST_INFO",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"gate_lane_id":1702800007,
+		"request_type_c":"004",
+		"pm_n":"XB1172K",
+		"driver_pass_n":"763946",
+		"transaction_status_c":"0",
+		"instruct_msg_x":""
+	}
+}

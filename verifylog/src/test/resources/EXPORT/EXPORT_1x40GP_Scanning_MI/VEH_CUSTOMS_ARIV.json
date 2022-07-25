@@ -1,0 +1,21 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-01-12T19:38:21.523",
+		"event_id":"URCIS-20220112193820620-809",
+		"trans_id":"VEH_CUSTOMS_ARIV",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"pm_n":"XE988P",
+		"purpose_c":"E",
+		"cntr_info":[
+			{
+				"cntr_n":"TRIU 4037101",
+				"cntr_scan_req_c":"00"
+			}
+		],
+		"oog_lane_i":"N",
+		"ack_c":"00"
+	}
+}

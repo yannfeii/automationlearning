@@ -1,0 +1,23 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"TACS-20220216183806272-651",
+		"event_dt":"2022-02-16T18:38:24.817",
+		"trans_id":"CNTR_EXIT",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XE988P",
+		"cntr_info":[
+			{
+				"cntr_n":"OOLU 3801068",
+				"op_type_c":"S"
+			},
+			{
+				"cntr_n":"OOLU 3801069",
+				"op_type_c":"S"
+			}
+		],
+		"exit_dt":"2022-02-16T18:38:24.817"
+	}
+}

@@ -1,0 +1,102 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"TACS-20220325181656273-291",
+		"event_dt":"2022-03-25T18:16:56.273",
+		"trans_id":"CNSL_MI",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"src_system_x":"G",
+		"job_id":"MI91967578",
+		"mi_type_c":"GT",
+		"mi_obj":{
+			"mi_op_c":2,
+			"mi_category_op_c":0,
+			"txn_c":"R",
+			"txn_error_info":[
+				{
+					"error_c":"gate_e_2159",
+					"error_msg_x":"Rejected Arrival. Cntr arrived after ATU/ETU"
+				}
+			],
+			"gate_id":1702700001,
+			"gate_m":"TUAS TERMINAL GATEWAY",
+			"abbr_gate_m":"TTG",
+			"gate_lane_id":1702800011,
+			"lane_n":16,
+			"lane_direction_c":"O",
+			"wt_reading_q":33000,
+			"img_ip_addr_x":"",
+			"img_path_m":"",
+			"captured_vehicle_n":"XA9455Y",
+			"vehicle_n":"XA9455Y",
+			"ht_ulw_q":5710,
+			"ht_mlw_q":50000,
+			"ht_company_m":"PTC",
+			"ht_trailer_q":1,
+			"trailer_info":[
+				{
+					"trailer_error_i":"N",
+					"img_path":[
+						{
+							"img_type_c":"1",
+							"img_path_m":"/opt/psa/data/sgs/ocr_images/SGS-1702800016-20220325170349197-123-lprs/trailer1"
+						}
+					],
+					"trailer_seq_n":1,
+					"trailer_n":"TR103E",
+					"captured_trailer_n":"TR103E",
+					"length_q":40,
+					"type_c":"1",
+					"ulw_q":7050,
+					"mlw_q":67300,
+					"empty_trailer_error_i":"N",
+					"empty_trailer_i":"N"
+				}
+			],
+			"cntr_info":[
+				{
+					"cntr_error_i":"N",
+					"cntr_seq_on_trailer_error_i":"N",
+					"cntr_door_dir_error_i":"N",
+					"error_info":[],
+					"img_path_m":"/opt/psa/data/sgs/ocr_images/SGS-1702800016-20220325170349197-123-cnrs/trailer1/cntr1",
+					"cntr_n":"NCSU 5288103",
+					"size_q":40,
+					"weight_q":20233,
+					"height_q":2895,
+					"cntr_type_c":"RF",
+					"cntr_status_c":"F",
+					"xray_i":"N",
+					"dg_i":"N",
+					"seal_n":"01416094",
+					"op_type_c":"EX",
+					"job_type_c":"O",
+					"captured_cntr_n":"NCSU 5288103",
+					"captured_cntr_mgw_q":40000,
+					"captured_cntr_tare_wt_q":3500,
+					"captured_cntr_net_wt_q":36500,
+					"est_cntr_wt_q":0,
+					"direct_disc_i":"N",
+					"direct_load_i":"N",
+					"disc_berth_m":"B03",
+					"load_gway":"T",
+					"load_berth_m":"B03",
+					"load_vessel_m":"AMA CHRISTOP",
+					"voyage_out_n":"UFLS1M",
+					"trailer_seq_n":1,
+					"tier_seq_c":"",
+					"cntr_door_dir_c":"F",
+					"cntr_locn_on_ht_c":"C"
+				}
+			],
+			"driver_info":{
+				"driver_m":"SHWETHA SHIVANNA",
+				"driver_pass_n":"763946",
+				"driver_company_m":"NCS PTE LTD",
+				"driver_pass_expiry_dt":"2019-12-31T15:59:59.001"
+			}
+		}
+	}
+}

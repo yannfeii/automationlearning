@@ -1,0 +1,16 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220317123843045-148",
+		"event_dt":"2022-03-17T12:38:43.912",
+		"trans_id":"SST_INFO",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"gate_lane_id":1702800011,
+		"request_type_c":"000",
+		"pm_n":"XB1172K",
+		"driver_pass_n":"763946",
+		"instruct_msg_x":"Transaction COMPLETED Successfully|XB1172K: Proceed to Exit|Import HLBU 9267651|Export TCLU 1351733|Please ensure that barrier is up before moving off"
+	}
+}

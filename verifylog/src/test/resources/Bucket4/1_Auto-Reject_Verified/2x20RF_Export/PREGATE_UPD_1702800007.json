@@ -1,0 +1,30 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220317153910966-836",
+		"event_dt":"2022-03-17T15:39:12.049",
+		"trans_id":"PREGATE_UPD",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"pregate_id":"20210909164211XA9455Y",
+		"pm_n":"XA9455Y",
+		"pregate_status_c":"R",
+		"gate_id":1702700001,
+		"gate_lane_id":1702800007,
+		"cntr_info":[
+			{
+				"cntr_n":"NCSA 3801066",
+				"purpose_c":"S",
+				"clearance_c":"AREJ",
+				"cntr_rej_reason_x":"vehicle arrived before the flexibook start time"
+			},
+			{
+				"cntr_n":"NCSA 3801067",
+				"purpose_c":"S",
+				"clearance_c":"AREJ",
+				"cntr_rej_reason_x":"vehicle arrived before the flexibook start time"
+			}
+		]
+	}
+}

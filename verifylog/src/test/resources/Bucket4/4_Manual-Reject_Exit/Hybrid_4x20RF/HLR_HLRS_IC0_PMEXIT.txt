@@ -1,0 +1,1 @@
+17032022145454~TT~HCS~GTOS~XA9455Y~17032022145454713~|Transaction REJECTED|XA9455Y|Import CRSU 5013204: ABORT DELIVERY|Import CRSU 5013203: Proceed to Exit|Please ensure that barrier is up before moving off

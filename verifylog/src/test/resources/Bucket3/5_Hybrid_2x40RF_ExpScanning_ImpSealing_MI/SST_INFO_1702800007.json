@@ -1,0 +1,16 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-17T12:29:21.296",
+		"event_id":"URCIS-20220317122920196-818",
+		"trans_id":"SST_INFO",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"gate_lane_id":1702800007,
+		"request_type_c":"000",
+		"pm_n":"XB1172K",
+		"driver_pass_n":"763946",
+		"instruct_msg_x":"Transaction COMPLETED Successfully|Import HLBU 9267651: Proceed to TUAS SQUARE|Export TCLU 1351733: Proceed to GO XRAY|XB1172K: Please ensure that barrier is up before moving off"
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-02T18:17:17.643",
+		"event_id":"URCIS-20220302181716212-139",
+		"trans_id":"JOB_INSTR",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XE5037B",
+		"ht_type_c":"H",
+		"trailer_info":[
+			{
+				"trailer_seq_n":1,
+				"trailer_n":"TR103E"
+			}
+		],
+		"cntr_info":[
+			{
+				"job_id":"GMS7515764",
+				"cntr_purp_c":"S",
+				"cntr_n":"OOLU 3801062",
+				"cntr_on_trailer_seq_n":1,
+				"cntr_op_type_c":"S",
+				"cntr_act_wt_n":17955,
+				"cntr_locn_on_pm_c":"3",
+				"cntr_door_dir_i":"R",
+				"cntr_cat_c":"RF"
+			},
+			{
+				"job_id":"GMS2026468",
+				"cntr_purp_c":"S",
+				"cntr_n":"OOLU 3801060",
+				"cntr_on_trailer_seq_n":1,
+				"cntr_op_type_c":"S",
+				"cntr_act_wt_n":17955,
+				"cntr_locn_on_pm_c":"1",
+				"cntr_door_dir_i":"F",
+				"cntr_cat_c":"RF"
+			}
+		]
+	}
+}

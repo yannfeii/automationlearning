@@ -1,0 +1,1 @@
+17032022154405~TT~HCS~GTOS~XA9455Y~17032022154405959~|Transaction REJECTED|XA9455Y|Rejected Arrival. vehicle arrived before the flexibook start time|Please ensure that barrier is up before moving off

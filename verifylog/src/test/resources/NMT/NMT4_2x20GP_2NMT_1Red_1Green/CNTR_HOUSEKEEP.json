@@ -1,0 +1,20 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-01T12:13:17.312",
+		"event_id":"TACS-20220301121317312-915",
+		"trans_id":"CNTR_HOUSEKEEP",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XE988P",
+		"cntr_info":[
+			{
+				"cntr_n":"HLXU 3753391"
+			},
+			{
+				"cntr_n":"HLXU 3753892"
+			}
+		]
+	}
+}

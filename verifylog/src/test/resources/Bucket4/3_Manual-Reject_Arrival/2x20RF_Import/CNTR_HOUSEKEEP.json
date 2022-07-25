@@ -1,0 +1,20 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-17T16:40:44.905",
+		"event_id":"URCIS-20220317164043972-749",
+		"trans_id":"CNTR_HOUSEKEEP",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XA9455Y",
+		"cntr_info":[
+			{
+				"cntr_n":"CRSU 5013209"
+			},
+			{
+				"cntr_n":"CRSU 5013202"
+			}
+		]
+	}
+}

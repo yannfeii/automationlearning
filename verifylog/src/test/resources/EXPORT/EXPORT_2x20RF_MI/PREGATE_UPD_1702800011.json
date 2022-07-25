@@ -1,0 +1,17 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20211224145828975-962",
+		"event_dt":"2021-12-24T14:58:29.763",
+		"trans_id":"PREGATE_UPD",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"pregate_id":"20211224110500XE988P",
+		"pm_n":"XE988P",
+		"pregate_status_c":"A",
+		"gate_id":1702700001,
+		"gate_lane_id":1702800011,
+		"driver_pass_n":"763946"
+	}
+}

@@ -1,0 +1,154 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"TACS-20220317153734972-884",
+		"event_dt":"2022-03-17T15:37:49.366",
+		"trans_id":"CNSL_MI",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"src_system_x":"G",
+		"job_id":"MI33438794",
+		"mi_type_c":"GT",
+		"mi_obj":{
+			"mi_op_c":2,
+			"mi_category_op_c":0,
+			"txn_c":"R",
+			"txn_error_info":[
+				{
+					"error_c":"gate_e_2135",
+					"error_msg_x":"NCSA 3801066 vehicle arrived before the flexibook start time"
+				},
+				{
+					"error_c":"gate_e_2135",
+					"error_msg_x":"NCSA 3801067 vehicle arrived before the flexibook start time"
+				}
+			],
+			"gate_id":1702700001,
+			"gate_m":"TUAS TERMINAL GATEWAY",
+			"abbr_gate_m":"TTG",
+			"gate_lane_id":1702800007,
+			"lane_n":12,
+			"lane_direction_c":"I",
+			"wt_reading_q":48000,
+			"img_ip_addr_x":"",
+			"img_path_m":"",
+			"captured_vehicle_n":"XA9455Y",
+			"vehicle_n":"XA9455Y",
+			"ht_ulw_q":5710,
+			"ht_mlw_q":50000,
+			"ht_company_m":"PTC",
+			"ht_trailer_q":1,
+			"trailer_info":[
+				{
+					"trailer_error_i":"N",
+					"img_path":[
+						{
+							"img_type_c":"1",
+							"img_path_m":"/opt/psa/data/sgs/ocr_images/SGS-1702800016-20220317153614187-123-lprs/trailer1"
+						}
+					],
+					"trailer_seq_n":1,
+					"trailer_n":"TR103E",
+					"captured_trailer_n":"TR103E",
+					"length_q":40,
+					"type_c":"1",
+					"ulw_q":7050,
+					"mlw_q":67300,
+					"empty_trailer_error_i":"N",
+					"empty_trailer_i":"N"
+				}
+			],
+			"cntr_info":[
+				{
+					"cntr_error_i":"N",
+					"cntr_seq_on_trailer_error_i":"N",
+					"cntr_door_dir_error_i":"N",
+					"error_info":[
+						{
+							"error_c":"gate_e_2135",
+							"error_msg":"NCSA 3801066 vehicle arrived before the flexibook start time"
+						}
+					],
+					"img_path_m":"/opt/psa/data/sgs/ocr_images/SGS-1702800016-20220317153614187-123-cnrs/trailer1/cntr1",
+					"cntr_n":"NCSA 3801066",
+					"size_q":20,
+					"weight_q":20000,
+					"height_q":2590,
+					"cntr_type_c":"RF",
+					"cntr_status_c":"F",
+					"xray_i":"N",
+					"dg_i":"N",
+					"seal_n":"1111",
+					"op_type_c":"EX",
+					"job_type_c":"O",
+					"captured_cntr_n":"NCSA 3801066",
+					"captured_cntr_mgw_q":40000,
+					"captured_cntr_tare_wt_q":3500,
+					"captured_cntr_net_wt_q":36500,
+					"est_cntr_wt_q":17520,
+					"direct_disc_i":"N",
+					"direct_load_i":"N",
+					"disc_berth_m":"P35",
+					"load_gway":"T",
+					"load_berth_m":"P35",
+					"load_vessel_m":"MSC ADELAIDE",
+					"voyage_out_n":"MA600R",
+					"flexi_book_time_fr_dt":"2022-05-19T15:00:00.000",
+					"flexi_book_time_to_dt":"2022-12-19T18:00:00.000",
+					"trailer_seq_n":1,
+					"tier_seq_c":"Btm",
+					"cntr_door_dir_c":"F",
+					"cntr_locn_on_ht_c":"F"
+				},
+				{
+					"cntr_error_i":"N",
+					"cntr_seq_on_trailer_error_i":"N",
+					"cntr_door_dir_error_i":"N",
+					"error_info":[
+						{
+							"error_c":"gate_e_2135",
+							"error_msg":"NCSA 3801067 vehicle arrived before the flexibook start time"
+						}
+					],
+					"img_path_m":"/opt/psa/data/sgs/ocr_images/SGS-1702800016-20220317153614187-123-cnrs/trailer1/cntr2",
+					"cntr_n":"NCSA 3801067",
+					"size_q":20,
+					"weight_q":20000,
+					"height_q":2590,
+					"cntr_type_c":"RF",
+					"cntr_status_c":"F",
+					"xray_i":"N",
+					"dg_i":"N",
+					"seal_n":"1111",
+					"op_type_c":"EX",
+					"job_type_c":"O",
+					"captured_cntr_n":"NCSA 3801067",
+					"captured_cntr_mgw_q":40000,
+					"captured_cntr_tare_wt_q":3500,
+					"captured_cntr_net_wt_q":36500,
+					"est_cntr_wt_q":17520,
+					"direct_disc_i":"N",
+					"direct_load_i":"N",
+					"disc_berth_m":"P35",
+					"load_gway":"T",
+					"load_berth_m":"P35",
+					"load_vessel_m":"MSC ADELAIDE",
+					"voyage_out_n":"MA600R",
+					"flexi_book_time_fr_dt":"2022-05-19T15:00:00.000",
+					"flexi_book_time_to_dt":"2022-12-19T18:00:00.000",
+					"trailer_seq_n":1,
+					"tier_seq_c":"Btm",
+					"cntr_door_dir_c":"R",
+					"cntr_locn_on_ht_c":"R"
+				}
+			],
+			"driver_info":{
+				"driver_m":"SHWETHA SHIVANNA",
+				"driver_pass_n":"763946",
+				"driver_company_m":"NCS PTE LTD",
+				"driver_pass_expiry_dt":"2019-12-31T15:59:59.001"
+			}
+		}
+	}
+}

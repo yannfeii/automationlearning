@@ -1,0 +1,19 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"TACS-20220112190042683-769",
+		"event_dt":"2022-01-12T19:01:04.579",
+		"trans_id":"CNTR_EXIT",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XE988P",
+		"cntr_info":[
+			{
+				"cntr_n":"TTNU 8107204",
+				"op_type_c":"S"
+			}
+		],
+		"exit_dt":"2022-01-12T19:01:04.813"
+	}
+}

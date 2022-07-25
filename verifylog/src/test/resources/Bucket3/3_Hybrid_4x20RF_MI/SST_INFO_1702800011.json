@@ -1,0 +1,16 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220316150548170-674",
+		"event_dt":"2022-03-16T15:05:48.881",
+		"trans_id":"SST_INFO",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"gate_lane_id":1702800011,
+		"request_type_c":"000",
+		"pm_n":"XB1172K",
+		"driver_pass_n":"763946",
+		"instruct_msg_x":"Transaction COMPLETED Successfully|XB1172K: Proceed to Exit|Export OOLU 3801066|Import CRSU 5013203|Export OOLU 3801067|Import CRSU 5013204|Please ensure that barrier is up before moving off"
+	}
+}

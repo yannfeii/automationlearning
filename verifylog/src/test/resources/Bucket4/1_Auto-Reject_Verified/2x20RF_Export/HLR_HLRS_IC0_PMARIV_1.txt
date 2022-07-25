@@ -1,0 +1,1 @@
+17032022153912~TT~HCS~GTOS~XA9455Y~17032022153912049~|Transaction REJECTED|XA9455Y|NCSA 3801066 vehicle arrived before the flexibook start time|NCSA 3801067 vehicle arrived before the flexibook start time|Please proceed to U-Turn to OUT lanes|Please ensure that barrier is up before moving off

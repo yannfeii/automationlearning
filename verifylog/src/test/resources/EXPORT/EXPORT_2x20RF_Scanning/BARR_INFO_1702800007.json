@@ -1,0 +1,13 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-02-16T18:01:44.572",
+		"event_id":"TACS-20220216180114415-886",
+		"trans_id":"BARR_INFO",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"gate_lane_id":1702800007,
+		"request_type_c":"UP"
+	}
+}

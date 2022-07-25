@@ -1,0 +1,15 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220314175233167-152",
+		"event_dt":"2022-03-14T17:52:34.066",
+		"trans_id":"SST_INFO",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"gate_lane_id":1702800011,
+		"request_type_c":"000",
+		"pm_n":"XE988P",
+		"instruct_msg_x":"Transaction REJECTED|XE988P|Rejected Arrival. NMT batch count allowed|Please ensure that barrier is up before moving off"
+	}
+}

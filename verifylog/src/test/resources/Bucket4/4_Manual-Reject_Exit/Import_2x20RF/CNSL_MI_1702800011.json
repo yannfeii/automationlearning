@@ -1,0 +1,178 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"TACS-20220325164114469-189",
+		"event_dt":"2022-03-25T16:41:14.469",
+		"trans_id":"CNSL_MI",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"src_system_x":"G",
+		"job_id":"MI3594727",
+		"mi_type_c":"GT",
+		"mi_obj":{
+			"mi_op_c":2,
+			"mi_category_op_c":0,
+			"txn_c":"M",
+			"txn_error_info":[
+				{
+					"error_c":"gate_e_2163",
+					"error_msg_x":"CRSU 5013209 [Job Cancelled] Abort CNTR"
+				}
+			],
+			"gate_id":1702700001,
+			"gate_m":"TUAS TERMINAL GATEWAY",
+			"abbr_gate_m":"TTG",
+			"gate_lane_id":1702800011,
+			"lane_n":16,
+			"lane_direction_c":"O",
+			"wt_reading_q":39000,
+			"img_ip_addr_x":"",
+			"img_path_m":"",
+			"captured_vehicle_n":"XA9455Y",
+			"vehicle_n":"XA9455Y",
+			"ht_ulw_q":5710,
+			"ht_mlw_q":50000,
+			"ht_company_m":"PTC",
+			"ht_trailer_q":1,
+			"trailer_info":[
+				{
+					"trailer_error_i":"N",
+					"img_path":[
+						{
+							"img_type_c":"1",
+							"img_path_m":"/opt/psa/data/sgs/ocr_images/SGS-1702800018-20220325163924298-123-lprs/trailer1"
+						}
+					],
+					"trailer_seq_n":1,
+					"trailer_n":"TR103E",
+					"captured_trailer_n":"TR103E",
+					"length_q":40,
+					"type_c":"1",
+					"ulw_q":7050,
+					"mlw_q":67300,
+					"empty_trailer_error_i":"N",
+					"empty_trailer_i":"N"
+				}
+			],
+			"cntr_info":[
+				{
+					"cntr_error_i":"N",
+					"cntr_seq_on_trailer_error_i":"N",
+					"cntr_door_dir_error_i":"N",
+					"error_info":[],
+					"img_path_m":"/opt/psa/data/sgs/ocr_images/SGS-1702800018-20220325163924298-123-cnrs/trailer1/cntr1",
+					"cntr_n":"CRSU 5013202",
+					"size_q":20,
+					"weight_q":12000,
+					"height_q":2590,
+					"cntr_type_c":"RF",
+					"cntr_status_c":"F",
+					"xray_i":"N",
+					"dg_i":"Y",
+					"dg_group_c":"3",
+					"imo_class_c":"9",
+					"op_type_c":"IM",
+					"job_type_c":"M",
+					"captured_cntr_n":"CRSU 5013202",
+					"captured_cntr_mgw_q":40000,
+					"captured_cntr_tare_wt_q":3500,
+					"captured_cntr_net_wt_q":36500,
+					"est_cntr_wt_q":13020,
+					"direct_disc_i":"N",
+					"direct_load_i":"N",
+					"disc_gway":"T",
+					"disc_vessel_m":"MSC KERRY",
+					"voyage_in_n":"XA323A",
+					"load_gway":" ",
+					"mount_dt":"2022-03-25T16:19:36.527",
+					"trailer_seq_n":1,
+					"tier_seq_c":"Btm",
+					"cntr_door_dir_c":"F",
+					"cntr_locn_on_ht_c":"F"
+				},
+				{
+					"cntr_error_i":"Y",
+					"cntr_seq_on_trailer_error_i":"Y",
+					"cntr_door_dir_error_i":"Y",
+					"error_info":[
+						{
+							"error_c":"gate_e_2145",
+							"error_msg":"CRSU 5013209 mount datetime not found"
+						},
+						{
+							"error_c":"gate_e_2163",
+							"error_msg":"CRSU 5013209 [Job Cancelled] Abort CNTR"
+						},
+						{
+							"error_c":"gate_e_2112",
+							"error_msg":"CRSU 5013209 Cntr mismatch with pregate cntr number"
+						},
+						{
+							"error_c":"gate_e_2114",
+							"error_msg":"CRSU 5013209 Door direction not available"
+						},
+						{
+							"error_c":"gate_e_2115",
+							"error_msg":"CRSU 5013209 Door direction confidence validation"
+						},
+						{
+							"error_c":"gate_e_2117",
+							"error_msg":"CRSU 5013209 Cntr Sequence on trailer confidence validation"
+						},
+						{
+							"error_c":"gate_e_2111",
+							"error_msg":"CRSU 5013209 CNRS confidence level error"
+						},
+						{
+							"error_c":"gate_e_2119",
+							"error_msg":"CRSU 5013209 Cntr MGW confidence level error"
+						},
+						{
+							"error_c":"gate_e_2122",
+							"error_msg":"CRSU 5013209 Cntr IMO Class confidence level error"
+						},
+						{
+							"error_c":"gate_e_2118",
+							"error_msg":"CRSU 5013209 Cntr ISO type code confidence level error"
+						},
+						{
+							"error_c":"gate_e_2120",
+							"error_msg":"CRSU 5013209 Cntr Tare Weight confidence level error"
+						}
+					],
+					"img_path_m":"",
+					"cntr_n":"CRSU 5013209",
+					"size_q":20,
+					"weight_q":12000,
+					"height_q":2590,
+					"cntr_type_c":"RF",
+					"cntr_status_c":"F",
+					"xray_i":"N",
+					"dg_i":"Y",
+					"dg_group_c":"3",
+					"imo_class_c":"9",
+					"op_type_c":"IM",
+					"job_type_c":"M",
+					"est_cntr_wt_q":13020,
+					"direct_disc_i":"N",
+					"direct_load_i":"N",
+					"disc_gway":"T",
+					"disc_vessel_m":"MSC KERRY",
+					"voyage_in_n":"XA323A",
+					"load_gway":" ",
+					"trailer_seq_n":1,
+					"tier_seq_c":"Btm",
+					"cntr_door_dir_c":"",
+					"cntr_locn_on_ht_c":""
+				}
+			],
+			"driver_info":{
+				"driver_m":"SHWETHA SHIVANNA",
+				"driver_pass_n":"763946",
+				"driver_company_m":"NCS PTE LTD",
+				"driver_pass_expiry_dt":"2019-12-31T15:59:59.001"
+			}
+		}
+	}
+}

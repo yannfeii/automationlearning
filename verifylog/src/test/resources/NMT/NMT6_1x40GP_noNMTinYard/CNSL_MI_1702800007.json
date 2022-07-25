@@ -1,0 +1,84 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"TACS-20220314174743448-317",
+		"event_dt":"2022-03-14T17:47:47.469",
+		"trans_id":"CNSL_MI",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"src_system_x":"G",
+		"job_id":"MI37165341",
+		"mi_type_c":"GT",
+		"mi_obj":{
+			"mi_op_c":2,
+			"mi_category_op_c":0,
+			"txn_c":"R",
+			"txn_error_info":[
+				{
+					"error_c":"gate_e_2161",
+					"error_msg_x":"XE988P NMT batch count allowed"
+				}
+			],
+			"gate_id":1702700001,
+			"gate_m":"TUAS TERMINAL GATEWAY",
+			"abbr_gate_m":"TTG",
+			"gate_lane_id":1702800007,
+			"lane_n":12,
+			"lane_direction_c":"I",
+			"wt_reading_q":15000,
+			"img_ip_addr_x":"",
+			"img_path_m":"",
+			"captured_vehicle_n":"XE988P",
+			"vehicle_n":"XE988P",
+			"ht_ulw_q":6740,
+			"ht_mlw_q":55000,
+			"ht_company_m":"REL FWD",
+			"ht_trailer_q":1,
+			"trailer_info":[
+				{
+					"trailer_error_i":"N",
+					"img_path":[
+						{
+							"img_type_c":"1",
+							"img_path_m":"/opt/psa/data/sgs/ocr_images/SGS-1702800016-20220314174514597-123-lprs/trailer1"
+						}
+					],
+					"trailer_seq_n":1,
+					"trailer_n":"TR103E",
+					"captured_trailer_n":"TR103E",
+					"length_q":40,
+					"type_c":"1",
+					"ulw_q":7050,
+					"mlw_q":67300,
+					"empty_trailer_error_i":"N",
+					"empty_trailer_i":"Y"
+				}
+			],
+			"cntr_info":[
+				{
+					"cntr_error_i":"N",
+					"cntr_seq_on_trailer_error_i":"N",
+					"cntr_door_dir_error_i":"N",
+					"error_info":[],
+					"img_path_m":"",
+					"op_type_c":"MT",
+					"job_type_c":"M",
+					"direct_disc_i":"",
+					"direct_load_i":"",
+					"nmt_batch_n":"83002",
+					"trailer_seq_n":1,
+					"tier_seq_c":"",
+					"cntr_door_dir_c":"N",
+					"cntr_locn_on_ht_c":"N"
+				}
+			],
+			"driver_info":{
+				"driver_m":"SHWETHA SHIVANNA",
+				"driver_pass_n":"763946",
+				"driver_company_m":"NCS PTE LTD",
+				"driver_pass_expiry_dt":"2019-12-31T15:59:59.001"
+			}
+		}
+	}
+}

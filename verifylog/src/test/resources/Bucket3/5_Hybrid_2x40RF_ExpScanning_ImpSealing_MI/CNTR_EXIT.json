@@ -1,0 +1,23 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220317123843045-148",
+		"event_dt":"2022-03-17T12:38:43.912",
+		"trans_id":"CNTR_EXIT",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XB1172K",
+		"cntr_info":[
+			{
+				"cntr_n":"HLBU 9267651",
+				"op_type_c":"D"
+			},
+			{
+				"cntr_n":"TCLU 1351733",
+				"op_type_c":"S"
+			}
+		],
+		"exit_dt":"2022-03-17T12:38:43.912"
+	}
+}

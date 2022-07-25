@@ -1,0 +1,16 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"TACS-20220216183806272-651",
+		"event_dt":"2022-02-16T18:38:24.817",
+		"trans_id":"SST_INFO",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"gate_lane_id":1702800011,
+		"request_type_c":"000",
+		"pm_n":"XE988P",
+		"driver_pass_n":"763946",
+		"instruct_msg_x":"Transaction COMPLETED Successfully|XE988P: Proceed to Exit|Export OOLU 3801068|Export OOLU 3801069|Please ensure that barrier is up before moving off"
+	}
+}

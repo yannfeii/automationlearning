@@ -1,0 +1,16 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-02T18:17:17.643",
+		"event_id":"URCIS-20220302181716212-139",
+		"trans_id":"SST_INFO",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"gate_lane_id":1702800007,
+		"request_type_c":"000",
+		"pm_n":"XE5037B",
+		"driver_pass_n":"763946",
+		"instruct_msg_x":"Transaction COMPLETED Successfully|Export OOLU 3801062: Proceed to TUAS SQUARE|Export OOLU 3801060: Proceed to TUAS SQUARE|XE5037B: Please ensure that barrier is up before moving off"
+	}
+}

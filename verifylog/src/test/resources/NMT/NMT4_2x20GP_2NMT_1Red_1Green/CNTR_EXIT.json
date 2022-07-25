@@ -1,0 +1,25 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"TACS-20220301121317312-915",
+		"event_dt":"2022-03-01T12:13:27.794",
+		"trans_id":"CNTR_EXIT",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XE988P",
+		"cntr_info":[
+			{
+				"cntr_n":"HLXU 3753391",
+				"op_type_c":"M",
+				"nmt_batch_n":83023
+			},
+			{
+				"cntr_n":"HLXU 3753892",
+				"op_type_c":"M",
+				"nmt_batch_n":83023
+			}
+		],
+		"exit_dt":"2022-03-01T12:13:28.265"
+	}
+}

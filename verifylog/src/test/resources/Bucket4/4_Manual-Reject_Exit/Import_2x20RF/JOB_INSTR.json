@@ -1,0 +1,37 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-25T16:18:08.812",
+		"event_id":"TACS-20220325161754137-119",
+		"trans_id":"JOB_INSTR",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XA9455Y",
+		"ht_type_c":"H",
+		"trailer_info":[
+			{
+				"trailer_seq_n":1,
+				"trailer_n":"TR103E"
+			}
+		],
+		"cntr_info":[
+			{
+				"job_id":"GMS72220",
+				"cntr_purp_c":"D",
+				"cntr_n":"CRSU 5013202",
+				"cntr_op_type_c":"D",
+				"cntr_door_dir_i":"",
+				"cntr_cat_c":"RG"
+			},
+			{
+				"job_id":"GMS9334475",
+				"cntr_purp_c":"D",
+				"cntr_n":"CRSU 5013209",
+				"cntr_op_type_c":"D",
+				"cntr_door_dir_i":"",
+				"cntr_cat_c":"RG"
+			}
+		]
+	}
+}

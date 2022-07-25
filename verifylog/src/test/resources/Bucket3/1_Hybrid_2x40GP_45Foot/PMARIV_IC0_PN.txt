@@ -1,0 +1,72 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"TACS-20220324100732372-349",
+		"event_dt":"2022-03-24T10:07:44.871",
+		"trans_id":"PMARIV",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"pm_n":"XE988P",
+		"lprs_pm_n":"XE988P",
+		"arrival_dt":"20220324100744",
+		"arrival_i":"Y",
+		"trip_type_c":"N",
+		"gate_n":1,
+		"lane_n":12,
+		"driver_pass_n":"763946",
+		"hlr_cmpny_n":"198804667M",
+		"auto_confirm_i":"Y",
+		"pm_ulw_n":6740,
+		"pm_mlw_n":55000,
+		"trailer_info":[
+			{
+				"trailer_seq_n":1,
+				"trailer_n":"TRB7759A",
+				"lprs_trailer_n":"TRB7759A",
+				"trailer_type_c":"45",
+				"trailer_ulw_n":7300,
+				"trailer_mlw_n":64600
+			}
+		],
+		"wt_reading_n":44000,
+		"no_of_exp_cntr":1,
+		"no_of_imp_cntr":1,
+		"cntr_info":[
+			{
+				"cntr_i":"Y",
+				"cntr_seq_on_trailer_n":1,
+				"cntr_purpose_c":"S",
+				"cntr_n":"TRIU 4037102",
+				"cntr_cnrs_n":"TRIU 4037102",
+				"cntr_op_type":"S",
+				"cntr_act_wt_n":29760,
+				"cntr_locn_on_pm_c":"5",
+				"cntr_st_c":"F",
+				"cntr_cat_c":"GP",
+				"cntr_locn_c":{
+					"locn_type_c":"T",
+					"locn_o":{
+						"locn_m":"TUAS SQUARE"
+					}
+				},
+				"cntr_door_dir_i":"F"
+			},
+			{
+				"cntr_i":"Y",
+				"cntr_purpose_c":"D",
+				"cntr_n":"INKU 6515962",
+				"cntr_op_type":"D",
+				"cntr_st_c":"F",
+				"cntr_cat_c":"HC",
+				"cntr_locn_c":{
+					"locn_type_c":"T",
+					"locn_o":{
+						"locn_m":"TUAS SQUARE"
+					}
+				},
+				"cntr_vgm_c":""
+			}
+		]
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-17T12:35:24.064",
+		"event_id":"PMST_EXP1-20220317-GR-REG-19_1",
+		"trans_id":"JOB_INSTR",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XB1172K",
+		"ht_type_c":"H",
+		"trailer_info":[
+			{
+				"trailer_seq_n":1,
+				"trailer_n":"TR103E"
+			}
+		],
+		"cntr_info":[
+			{
+				"job_id":"GMS5133894",
+				"cntr_purp_c":"S",
+				"cntr_n":"TCLU 1351733",
+				"cntr_on_trailer_seq_n":1,
+				"cntr_op_type_c":"S",
+				"cntr_act_wt_n":25910,
+				"cntr_locn_on_pm_c":"5",
+				"cntr_door_dir_i":"R"
+			},
+			{
+				"job_id":"GMS196899",
+				"cntr_purp_c":"D",
+				"cntr_n":"HLBU 9267651",
+				"cntr_op_type_c":"D",
+				"cntr_act_wt_n":0,
+				"cntr_door_dir_i":"R"
+			}
+		]
+	}
+}

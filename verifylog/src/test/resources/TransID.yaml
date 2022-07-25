@@ -1,0 +1,33 @@
+transID:
+  - PMARIV
+  - JOB_INSTR
+  - CNSL_MI
+  - JOB_COMP
+  - SST_INFO
+  - BARR_INFO
+  - GATE_LANE_UPD
+  - HLR_HLRS
+  - CUSTOMS_STATUS
+  - PMEXIT
+  - CNTR_EXIT
+  - PREGATE_UPD
+  - CNSL_JOB_COMPL_R
+  - VEH_CUSTOMS_ARIV
+  - VEH_U_TURN_LIST_R
+  - cntr_customs
+  - CNTR_HOUSEKEEP
+  - IGH_PREGATE
+  - HT_OUT_GATE
+  - HT_IN_GATE
+transIDForIC0:
+  - PMARIV
+  - PMEXIT
+  - HLR_HLRS
+  - IGH_PREGATE
+transIDWithGateID:
+  - SST_INFO
+  - BARR_INFO
+  - GATE_LANE_UPD
+  - CNSL_MI
+  - PREGATE_UPD
+  - cntr_customs

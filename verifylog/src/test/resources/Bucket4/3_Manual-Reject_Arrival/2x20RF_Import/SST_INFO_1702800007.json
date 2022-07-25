@@ -1,0 +1,15 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220317163819778-952",
+		"event_dt":"2022-03-17T16:38:20.380",
+		"trans_id":"SST_INFO",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"gate_lane_id":1702800007,
+		"request_type_c":"000",
+		"pm_n":"XA9455Y",
+		"instruct_msg_x":"Transaction REJECTED|XA9455Y|TRAILER NOT EMPTY|Please proceed to U-Turn to OUT lanes|Please ensure that barrier is up before moving off"
+	}
+}

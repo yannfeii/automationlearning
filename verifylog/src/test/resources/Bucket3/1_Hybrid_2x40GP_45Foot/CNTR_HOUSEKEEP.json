@@ -1,0 +1,20 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-24T15:32:01.464",
+		"event_id":"TACS-20220324153201464-713",
+		"trans_id":"CNTR_HOUSEKEEP",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XE988P",
+		"cntr_info":[
+			{
+				"cntr_n":"TRIU 4037102"
+			},
+			{
+				"cntr_n":"INKU 6515962"
+			}
+		]
+	}
+}

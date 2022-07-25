@@ -1,0 +1,13 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220316150548170-674",
+		"event_dt":"2022-03-16T15:05:48.881",
+		"trans_id":"BARR_INFO",
+		"status_c":"00"
+	},
+	"gtosplus_ops_body":{
+		"gate_lane_id":1702800011,
+		"request_type_c":"UP"
+	}
+}

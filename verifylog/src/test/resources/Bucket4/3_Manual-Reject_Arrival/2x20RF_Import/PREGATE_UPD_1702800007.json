@@ -1,0 +1,29 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220317163819778-952",
+		"event_dt":"2022-03-17T16:38:20.380",
+		"trans_id":"PREGATE_UPD",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"pregate_id":"20210910120014XA9455Y",
+		"pm_n":"XA9455Y",
+		"pregate_status_c":"R",
+		"gate_id":1702700001,
+		"gate_lane_id":1702800007,
+		"cntr_info":[
+			{
+				"cntr_n":"CRSU 5013209",
+				"purpose_c":"D",
+				"clearance_c":"MREJ"
+			},
+			{
+				"cntr_n":"CRSU 5013202",
+				"purpose_c":"D",
+				"clearance_c":"MREJ"
+			}
+		],
+		"rej_reason_x":"TRAILER NOT EMPTY"
+	}
+}

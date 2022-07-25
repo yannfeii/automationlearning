@@ -1,0 +1,26 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-24T16:49:20.694",
+		"event_id":"TACS-OUT-03241649",
+		"trans_id":"CNTR_HOUSEKEEP",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XE988P",
+		"cntr_info":[
+			{
+				"cntr_n":"NCSA 5013203"
+			},
+			{
+				"cntr_n":"NCSA 5013204"
+			},
+			{
+				"cntr_n":"OOLU 3801068"
+			},
+			{
+				"cntr_n":"OOLU 3801069"
+			}
+		]
+	}
+}

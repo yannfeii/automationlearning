@@ -1,0 +1,26 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220317153910966-836",
+		"event_dt":"2022-03-17T15:39:12.049",
+		"trans_id":"VEH_U_TURN_LIST_R",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"console_id":1903010052,
+		"veh_info":[
+			{
+				"gate_id":1702700001,
+				"gate_m":"TUAS TERMINAL GATEWAY",
+				"gate_lane_id":1702800007,
+				"lane_n":12,
+				"vehicle_n":"XA9455Y",
+				"uturn_type_c":"I",
+				"uturn_reason_x":"N/A",
+				"uturn_dt":"2022-03-17T15:39:12.049"
+			}
+		],
+		"status_c":1,
+		"status_m":"FAILURE"
+	}
+}

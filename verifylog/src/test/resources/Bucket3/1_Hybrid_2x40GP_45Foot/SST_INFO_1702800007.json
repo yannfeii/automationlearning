@@ -1,0 +1,16 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-24T10:07:44.871",
+		"event_id":"TACS-20220324100732372-349",
+		"trans_id":"SST_INFO",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"gate_lane_id":1702800007,
+		"request_type_c":"000",
+		"pm_n":"XE988P",
+		"driver_pass_n":"763946",
+		"instruct_msg_x":"Transaction COMPLETED Successfully|Export TRIU 4037102: Proceed to TUAS SQUARE|Import INKU 6515962: Proceed to TUAS SQUARE|XE988P: Please ensure that barrier is up before moving off"
+	}
+}

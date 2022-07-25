@@ -1,0 +1,16 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-24T16:29:11.753",
+		"event_id":"TACS-20220324162856982-302",
+		"trans_id":"SST_INFO",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"gate_lane_id":1702800007,
+		"request_type_c":"000",
+		"pm_n":"XE988P",
+		"driver_pass_n":"763946",
+		"instruct_msg_x":"Transaction COMPLETED Successfully|Export OOLU 3801068: Proceed to GO XRAY|Export OOLU 3801069: Proceed to GO XRAY|Import NCSA 5013203: Proceed to TUAS SQUARE|Import NCSA 5013204: Proceed to TUAS SQUARE|XE988P: Please ensure that barrier is up before moving off"
+	}
+}

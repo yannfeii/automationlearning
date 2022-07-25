@@ -14,7 +14,7 @@ spring:
 
 mybatis:
   mapper-locations: classpath:mapper/*.xml
-  type-aliases-package: com.learning.springboot.entity
+  type-aliases-package: com.learning.springboot.com.psa.entity
   configuration:
     mapUnderscoreToCamelCase: true
 

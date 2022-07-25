@@ -1,0 +1,24 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"TACS-20220112184816770-120",
+		"event_dt":"2022-01-12T18:48:33.520",
+		"trans_id":"PREGATE_UPD",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"pregate_id":"20200112172011XE988P",
+		"pm_n":"XE988P",
+		"pregate_status_c":"A",
+		"gate_id":1702700001,
+		"gate_lane_id":1702800007,
+		"driver_pass_n":"763946",
+		"cntr_info":[
+			{
+				"cntr_n":"TTNU 8107204",
+				"purpose_c":"S",
+				"clearance_c":"ACFM"
+			}
+		]
+	}
+}

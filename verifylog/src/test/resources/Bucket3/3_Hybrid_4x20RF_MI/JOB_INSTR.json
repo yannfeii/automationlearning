@@ -1,0 +1,59 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-16T14:48:29.612",
+		"event_id":"URCIS-20220316144829089-606",
+		"trans_id":"JOB_INSTR",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XB1172K",
+		"ht_type_c":"H",
+		"trailer_info":[
+			{
+				"trailer_seq_n":1,
+				"trailer_n":"TR103E"
+			}
+		],
+		"cntr_info":[
+			{
+				"job_id":"GMS7132232",
+				"cntr_purp_c":"S",
+				"cntr_n":"OOLU 3801066",
+				"cntr_on_trailer_seq_n":1,
+				"cntr_op_type_c":"S",
+				"cntr_act_wt_n":17955,
+				"cntr_locn_on_pm_c":"1",
+				"cntr_door_dir_i":"F",
+				"cntr_cat_c":"RF"
+			},
+			{
+				"job_id":"GMS1147419",
+				"cntr_purp_c":"S",
+				"cntr_n":"OOLU 3801067",
+				"cntr_on_trailer_seq_n":1,
+				"cntr_op_type_c":"S",
+				"cntr_act_wt_n":17955,
+				"cntr_locn_on_pm_c":"3",
+				"cntr_door_dir_i":"F",
+				"cntr_cat_c":"RF"
+			},
+			{
+				"job_id":"GMS7265402",
+				"cntr_purp_c":"D",
+				"cntr_n":"CRSU 5013203",
+				"cntr_op_type_c":"D",
+				"cntr_door_dir_i":"",
+				"cntr_cat_c":"RG"
+			},
+			{
+				"job_id":"GMS6183403",
+				"cntr_purp_c":"D",
+				"cntr_n":"CRSU 5013204",
+				"cntr_op_type_c":"D",
+				"cntr_door_dir_i":"",
+				"cntr_cat_c":"RG"
+			}
+		]
+	}
+}

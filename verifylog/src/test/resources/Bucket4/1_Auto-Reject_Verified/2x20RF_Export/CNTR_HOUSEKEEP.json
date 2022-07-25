@@ -1,0 +1,20 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-17T15:44:05.959",
+		"event_id":"URCIS-20220317154405379-593",
+		"trans_id":"CNTR_HOUSEKEEP",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XA9455Y",
+		"cntr_info":[
+			{
+				"cntr_n":"NCSA 3801066"
+			},
+			{
+				"cntr_n":"NCSA 3801067"
+			}
+		]
+	}
+}

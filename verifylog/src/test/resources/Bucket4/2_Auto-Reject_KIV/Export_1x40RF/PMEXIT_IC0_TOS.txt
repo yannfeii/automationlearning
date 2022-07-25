@@ -1,0 +1,52 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220325181823456-260",
+		"event_dt":"2022-03-25T18:18:24.488",
+		"trans_id":"PMEXIT",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"pm_n":"XA9455Y",
+		"lprs_pm_n":"XA9455Y",
+		"exit_dt":"20220325181824",
+		"exit_i":"N",
+		"trip_type_c":"N",
+		"gate_n":1,
+		"lane_n":16,
+		"opr_logon":"PT$CKL",
+		"driver_pass_n":"763946",
+		"hlr_cmpny_n":"196900049H",
+		"auto_confirm_i":"N",
+		"pm_ulw_n":5710,
+		"pm_mlw_n":50000,
+		"trailer_info":[
+			{
+				"trailer_seq_n":1,
+				"trailer_n":"TR103E",
+				"lprs_trailer_n":"TR103E",
+				"trailer_type_c":"40",
+				"trailer_ulw_n":7050,
+				"trailer_mlw_n":67300
+			}
+		],
+		"wt_reading_n":33000,
+		"no_of_exp_cntr":1,
+		"no_of_imp_cntr":0,
+		"cntr_info":[
+			{
+				"cntr_i":"N",
+				"cntr_seq_on_trailer_n":1,
+				"cntr_purpose_c":"S",
+				"cntr_n":"NCSU 5288103",
+				"cntr_cnrs_n":"NCSU 5288103",
+				"cntr_op_type":"S",
+				"cntr_rej_reason":"Cntr arrived after ATU/ETU",
+				"cntr_locn_on_pm_c":"5",
+				"cntr_st_c":"F",
+				"cntr_cat_c":"HR",
+				"cntr_vgm_c":""
+			}
+		]
+	}
+}

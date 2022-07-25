@@ -1,0 +1,21 @@
+{
+	"gtosplus_ops_header":{
+		"event_id":"SGS-20220112184718112-123",
+		"event_dt":"2022-01-12T18:47:19.275",
+		"trans_id":"cntr_customs",
+		"status_c":"0",
+		"source_m":"GMS"
+	},
+	"gtosplus_ops_body":{
+		"pm_n":"XE988P",
+		"purpose_c":"E",
+		"cntr_info":[
+			{
+				"cntr_n":"TTNU 8107204"
+			}
+		],
+		"gate_n":1,
+		"lane_n":12,
+		"rdi_i":"N"
+	}
+}

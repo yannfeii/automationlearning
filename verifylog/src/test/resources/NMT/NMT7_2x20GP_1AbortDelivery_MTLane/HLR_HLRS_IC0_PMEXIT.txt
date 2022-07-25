@@ -1,0 +1,1 @@
+18032022171034~TT~HCS~GTOS~XE988P~18032022171034073~|Transaction REJECTED|XE988P|NMT BEAU 2598305: Proceed to Exit|NMT 83001: ABORT DELIVERY|Please ensure that barrier is up before moving off

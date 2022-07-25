@@ -1,0 +1,35 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-17T16:18:29.410",
+		"event_id":"TACS-20220317161817769-875",
+		"trans_id":"JOB_INSTR",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XE988P",
+		"ht_type_c":"H",
+		"trailer_info":[
+			{
+				"trailer_seq_n":1,
+				"trailer_n":"TR103E"
+			}
+		],
+		"cntr_info":[
+			{
+				"job_id":"GMS2481044",
+				"cntr_purp_c":"M",
+				"cntr_op_type_c":"M",
+				"cntr_door_dir_i":"",
+				"nmt_batch_n":83001
+			},
+			{
+				"job_id":"GMS3278654",
+				"cntr_purp_c":"M",
+				"cntr_op_type_c":"M",
+				"cntr_door_dir_i":"",
+				"nmt_batch_n":83001
+			}
+		]
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220304113249073-983",
+		"event_dt":"2022-03-04T11:32:50.502",
+		"trans_id":"PREGATE_UPD",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"pregate_id":"20220304000000XB1172K",
+		"pm_n":"XB1172K",
+		"pregate_status_c":"A",
+		"gate_id":1702700001,
+		"gate_lane_id":1702800007,
+		"cntr_info":[
+			{
+				"cntr_n":"OOLU 3801069",
+				"purpose_c":"S",
+				"clearance_c":"MCFM"
+			},
+			{
+				"cntr_n":"OOLU 3801068",
+				"purpose_c":"S",
+				"clearance_c":"MCFM"
+			}
+		]
+	}
+}

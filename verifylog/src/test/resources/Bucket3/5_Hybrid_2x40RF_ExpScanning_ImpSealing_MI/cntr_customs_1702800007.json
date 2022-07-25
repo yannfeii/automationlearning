@@ -1,0 +1,21 @@
+{
+	"gtosplus_ops_header":{
+		"event_id":"SGS-20220317122354929-123",
+		"event_dt":"2022-03-17T12:24:02.195",
+		"trans_id":"cntr_customs",
+		"status_c":"0",
+		"source_m":"GMS"
+	},
+	"gtosplus_ops_body":{
+		"pm_n":"XB1172K",
+		"purpose_c":"E",
+		"cntr_info":[
+			{
+				"cntr_n":"TCLU 1351733"
+			}
+		],
+		"gate_n":1,
+		"lane_n":12,
+		"rdi_i":"N"
+	}
+}

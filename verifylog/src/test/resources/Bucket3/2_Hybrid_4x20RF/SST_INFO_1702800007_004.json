@@ -1,0 +1,17 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-24T15:52:18.851",
+		"event_id":"TACS-20220324155204703-899",
+		"trans_id":"SST_INFO",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"gate_lane_id":1702800007,
+		"request_type_c":"004",
+		"pm_n":"XE988P",
+		"driver_pass_n":"763946",
+		"transaction_status_c":"0",
+		"instruct_msg_x":""
+	}
+}

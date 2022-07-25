@@ -1,0 +1,26 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220316150548170-674",
+		"event_dt":"2022-03-16T15:05:48.881",
+		"trans_id":"CNTR_HOUSEKEEP",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XB1172K",
+		"cntr_info":[
+			{
+				"cntr_n":"OOLU 3801066"
+			},
+			{
+				"cntr_n":"CRSU 5013203"
+			},
+			{
+				"cntr_n":"OOLU 3801067"
+			},
+			{
+				"cntr_n":"CRSU 5013204"
+			}
+		]
+	}
+}

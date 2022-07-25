@@ -1,0 +1,21 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-17T12:29:21.296",
+		"event_id":"URCIS-20220317122920196-818",
+		"trans_id":"VEH_CUSTOMS_ARIV",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"pm_n":"XB1172K",
+		"purpose_c":"E",
+		"cntr_info":[
+			{
+				"cntr_n":"TCLU 1351733",
+				"cntr_scan_req_c":"00"
+			}
+		],
+		"oog_lane_i":"N",
+		"ack_c":"00"
+	}
+}

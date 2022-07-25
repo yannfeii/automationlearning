@@ -1,0 +1,15 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220318171032839-565",
+		"event_dt":"2022-03-18T17:10:34.073",
+		"trans_id":"SST_INFO",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"gate_lane_id":1702800011,
+		"request_type_c":"000",
+		"pm_n":"XE988P",
+		"instruct_msg_x":"Transaction REJECTED|XE988P|NMT BEAU 2598305: Proceed to Exit|NMT 83001: ABORT DELIVERY|Please ensure that barrier is up before moving off"
+	}
+}

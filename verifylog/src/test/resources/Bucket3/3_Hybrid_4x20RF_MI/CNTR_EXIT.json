@@ -1,0 +1,31 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220316150548170-674",
+		"event_dt":"2022-03-16T15:05:48.881",
+		"trans_id":"CNTR_EXIT",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XB1172K",
+		"cntr_info":[
+			{
+				"cntr_n":"OOLU 3801066",
+				"op_type_c":"S"
+			},
+			{
+				"cntr_n":"CRSU 5013203",
+				"op_type_c":"D"
+			},
+			{
+				"cntr_n":"OOLU 3801067",
+				"op_type_c":"S"
+			},
+			{
+				"cntr_n":"CRSU 5013204",
+				"op_type_c":"D"
+			}
+		],
+		"exit_dt":"2022-03-16T15:05:48.881"
+	}
+}

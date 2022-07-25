@@ -1,0 +1,17 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"TACS-20220325161754137-119",
+		"event_dt":"2022-03-25T16:18:08.812",
+		"trans_id":"PREGATE_UPD",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"pregate_id":"20220325160632XA9455Y",
+		"pm_n":"XA9455Y",
+		"pregate_status_c":"A",
+		"gate_id":1702700001,
+		"gate_lane_id":1702800007,
+		"driver_pass_n":"763946"
+	}
+}

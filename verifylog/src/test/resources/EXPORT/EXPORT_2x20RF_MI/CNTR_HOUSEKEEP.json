@@ -1,0 +1,20 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220303105008816-707",
+		"event_dt":"2022-03-03T10:50:09.647",
+		"trans_id":"CNTR_HOUSEKEEP",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XE5037B",
+		"cntr_info":[
+			{
+				"cntr_n":"OOLU 3801060"
+			},
+			{
+				"cntr_n":"OOLU 3801062"
+			}
+		]
+	}
+}

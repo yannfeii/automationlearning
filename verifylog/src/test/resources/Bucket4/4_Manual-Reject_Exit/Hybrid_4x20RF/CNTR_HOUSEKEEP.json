@@ -1,0 +1,26 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-03-17T14:54:54.713",
+		"event_id":"URCIS-20220317145454250-481",
+		"trans_id":"CNTR_HOUSEKEEP",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XA9455Y",
+		"cntr_info":[
+			{
+				"cntr_n":"CRSU 5013203"
+			},
+			{
+				"cntr_n":"OOLU 3801066"
+			},
+			{
+				"cntr_n":"OOLU 3801067"
+			},
+			{
+				"cntr_n":"CRSU 5013204"
+			}
+		]
+	}
+}

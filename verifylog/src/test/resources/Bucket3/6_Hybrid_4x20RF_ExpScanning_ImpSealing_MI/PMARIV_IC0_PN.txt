@@ -1,0 +1,107 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220304113249073-983",
+		"event_dt":"2022-03-04T11:32:50.502",
+		"trans_id":"PMARIV",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"pm_n":"XB1172K",
+		"lprs_pm_n":"XB1172K",
+		"arrival_dt":"20220304113250",
+		"arrival_i":"Y",
+		"trip_type_c":"N",
+		"gate_n":1,
+		"lane_n":12,
+		"opr_logon":"PT$CKL",
+		"driver_pass_n":"763946",
+		"hlr_cmpny_n":"196900049H",
+		"auto_confirm_i":"N",
+		"pm_ulw_n":5840,
+		"pm_mlw_n":50000,
+		"trailer_info":[
+			{
+				"trailer_seq_n":1,
+				"trailer_n":"TR103E",
+				"lprs_trailer_n":"TR100E",
+				"trailer_type_c":"40",
+				"trailer_ulw_n":7050,
+				"trailer_mlw_n":67300
+			}
+		],
+		"wt_reading_n":49000,
+		"no_of_exp_cntr":2,
+		"no_of_imp_cntr":2,
+		"cntr_info":[
+			{
+				"cntr_i":"Y",
+				"cntr_seq_on_trailer_n":1,
+				"cntr_purpose_c":"S",
+				"cntr_n":"OOLU 3801069",
+				"cntr_cnrs_n":"OOLU 3801069",
+				"cntr_op_type":"S",
+				"cntr_act_wt_n":17955,
+				"cntr_locn_on_pm_c":"3",
+				"cntr_st_c":"F",
+				"cntr_cat_c":"RF",
+				"cntr_locn_c":{
+					"locn_type_c":"T",
+					"locn_o":{
+						"locn_m":"TUAS SQUARE"
+					}
+				},
+				"cntr_door_dir_i":"R"
+			},
+			{
+				"cntr_i":"Y",
+				"cntr_purpose_c":"D",
+				"cntr_n":"NCSA 5013204",
+				"cntr_op_type":"D",
+				"cntr_st_c":"F",
+				"cntr_cat_c":"RG",
+				"cntr_locn_c":{
+					"locn_type_c":"T",
+					"locn_o":{
+						"locn_m":"TUAS SQUARE"
+					}
+				},
+				"cntr_vgm_c":""
+			},
+			{
+				"cntr_i":"Y",
+				"cntr_seq_on_trailer_n":1,
+				"cntr_purpose_c":"S",
+				"cntr_n":"OOLU 3801068",
+				"cntr_cnrs_n":"OOLU 3801068",
+				"cntr_op_type":"S",
+				"cntr_act_wt_n":17955,
+				"cntr_locn_on_pm_c":"1",
+				"cntr_st_c":"F",
+				"cntr_cat_c":"RF",
+				"cntr_locn_c":{
+					"locn_type_c":"T",
+					"locn_o":{
+						"locn_m":"TUAS SQUARE"
+					}
+				},
+				"cntr_door_dir_i":"F"
+			},
+			{
+				"cntr_i":"Y",
+				"cntr_purpose_c":"D",
+				"cntr_n":"NCSA 5013203",
+				"cntr_op_type":"D",
+				"cntr_st_c":"F",
+				"cntr_cat_c":"RG",
+				"cntr_locn_c":{
+					"locn_type_c":"T",
+					"locn_o":{
+						"locn_m":"TUAS SQUARE"
+					}
+				},
+				"cntr_vgm_c":""
+			}
+		]
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_dt":"2022-01-12T18:45:23.718",
+		"event_id":"specialops-EXP1-202201121944",
+		"trans_id":"JOB_INSTR",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"vehicle_n":"XE988P",
+		"ht_type_c":"H",
+		"trailer_info":[
+			{
+				"trailer_seq_n":1,
+				"trailer_n":"TR103E"
+			}
+		],
+		"cntr_info":[
+			{
+				"job_id":"GMS7146860",
+				"cntr_purp_c":"S",
+				"cntr_n":"TRIU 4037101",
+				"cntr_on_trailer_seq_n":1,
+				"cntr_op_type_c":"S",
+				"cntr_act_wt_n":29010,
+				"cntr_locn_on_pm_c":"1",
+				"cntr_door_dir_i":"F"
+			}
+		]
+	}
+}

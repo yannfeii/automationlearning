@@ -1,0 +1,46 @@
+{
+	"gtosplus_ops_header":{
+		"source_m":"GMS",
+		"event_id":"URCIS-20220314175233167-152",
+		"event_dt":"2022-03-14T17:52:34.066",
+		"trans_id":"GATE_LANE_UPD",
+		"status_c":"0"
+	},
+	"gtosplus_ops_body":{
+		"console_id":1903010052,
+		"gate_id":1702700001,
+		"gate_m":"TUAS TERMINAL GATEWAY",
+		"abbr_gate_m":"TTG",
+		"gate_lane_id":1702800011,
+		"lane_n":16,
+		"lane_direction_c":"O",
+		"lane_type_c":"G",
+		"lane_mode_c":"S",
+		"lane_status_c":"A",
+		"event_dtl_x":"XE988P 1 NMT AREJ",
+		"event_dt":"2022-03-14T17:52:34.066",
+		"mi_i":"N",
+		"eqpt_info":[
+			{
+				"eqpt_id":"CTRS-VA-08-CE02-GL",
+				"eqpt_type_c":"VIS",
+				"eqpt_status_c":"A"
+			},
+			{
+				"eqpt_id":"TG1-GL-OUT-16-BS-CON-01",
+				"eqpt_type_c":"BARR",
+				"eqpt_status_c":"A"
+			},
+			{
+				"eqpt_id":"TG1-GL-OUT-16-LSS-CON-01",
+				"eqpt_type_c":"LED",
+				"eqpt_status_c":"A"
+			},
+			{
+				"eqpt_id":"TTG_GL16_FGS_O",
+				"eqpt_type_c":"SST",
+				"eqpt_status_c":"A"
+			}
+		]
+	}
+}
